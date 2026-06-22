@@ -1,4 +1,4 @@
-# CyberGuard - Password Strength Analyzer
+# CyberGuard - Password Strength Analyzer by Xiaoqian Lyu and Myriam Bensouri
 
 CyberGuard is a lightweight, web-based tool designed to evaluate password strength in real time. It provides users with instant visual feedback and estimated decryption times to encourage safer credential management and mitigate the risk of brute-force attacks.
 
